@@ -62,7 +62,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url(''); /* custom icon url */
+	--moon-icon-url: url('https://imgur.com/a/voVmXHp'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
@@ -717,7 +717,7 @@ button.button__581d0 /* small buttons */,
 }
 /* custom dm button background instead of icon */
 /* .childWrapper_a6ce15:has(> svg:not(.favoriteIcon__901fa)) {
-	background: url('');
+	background: url('https://imgur.com/a/voVmXHp');
 	background-color: transparent !important;
 	background-size: cover;
 } */
